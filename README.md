@@ -1,4 +1,4 @@
-# Gesture Recognition with 2S-STGCN, Transformer & TCN for Human Robot Communication - Deep Learning
+# Gesture Recognition with 2S-STGCN, Transformer & TCN for Human Robot Communication – Deep Learning Project
 
 ![Built With](https://img.shields.io/badge/Built%20With-Python%20%7C%20PyTorch%20%7C%20Deep%20Learning-blue)
 ![Language](https://img.shields.io/badge/Language-Python-orange)
