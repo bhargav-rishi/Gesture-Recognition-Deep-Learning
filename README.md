@@ -77,14 +77,15 @@ This system enables robots to understand intent from **skeleton-based motion**, 
 ## File Structure
 <pre>
 Gesture-Recognition-Deep-Learning/
+├── Code/
+│ └── 2sSTGCN.ipynb
+│ └── 2sTCN.ipynb
+│ └── Transformer_Encoder.ipynb
+│ └── parse_skeleton.ipynb
 ├── Demo/
 │ └── Drink_Water.mp4
 ├── Report/
 │ └── Team Project - Gesture Recognition.docx
-├── 2sSTGCN.ipynb
-├── 2sTCN.ipynb
-├── Transformer_Encoder.ipynb
-├── parse_skeleton.ipynb
 └── README.md
 </pre>
 **File Descriptions**:
