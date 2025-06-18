@@ -77,14 +77,16 @@ This system enables robots to understand intent from **skeleton-based motion**, 
 ## File Structure
 <pre>
 Gesture-Recognition-Deep-Learning/
-├── 2sSTGCN.ipynb  ##2-stream Spatial-Temporal Graph Convolutional Network model
-├── 2sTCN.ipynb  ##Two-Stream Temporal Convolutional Network model
-├── Transformer_Encoder.ipynb  ##Transformer Encoder model
-├── parse_skeleton.ipynb ##Converting skeleton data into numpy array
-├── Report/
-│ └── Team Project - Gesture Recognition.docx
 ├── Demo/
 │ └── Drink_Water.mp4
+├── Report/
+│ └── Team Project - Gesture Recognition.docx
+├── `2sSTGCN.ipynb`  — 2-stream Spatial-Temporal Graph Convolutional Network model
+├── `2sTCN.ipynb`  — Two-Stream Temporal Convolutional Network model
+├── `Transformer_Encoder.ipynb`  — Transformer Encoder model
+├── parse_skeleton.ipynb #Converting skeleton data into numpy array
+└── README.md
+
 </pre>
 
 ---
