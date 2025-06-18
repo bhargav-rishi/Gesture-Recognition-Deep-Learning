@@ -81,14 +81,18 @@ Gesture-Recognition-Deep-Learning/
 │ └── Drink_Water.mp4
 ├── Report/
 │ └── Team Project - Gesture Recognition.docx
-├── `2sSTGCN.ipynb`  — 2-stream Spatial-Temporal Graph Convolutional Network model
-├── `2sTCN.ipynb`  — Two-Stream Temporal Convolutional Network model
-├── `Transformer_Encoder.ipynb`  — Transformer Encoder model
-├── parse_skeleton.ipynb #Converting skeleton data into numpy array
+├── 2sSTGCN.ipynb
+├── 2sTCN.ipynb
+├── Transformer_Encoder.ipynb
+├── parse_skeleton.ipynb
 └── README.md
-
 </pre>
-
+**File Descriptions**:
+- `2sSTGCN.ipynb`: 2-stream Spatial-Temporal Graph Convolutional Network model
+- `2sTCN.ipynb`: Two-Stream Temporal Convolutional Network model
+- `Transformer_Encoder.ipynb`: Transformer Encoder model
+- `parse_skeleton.ipynb`: Converts raw NTU skeleton files to NumPy arrays
+- `README.md`: Project overview, models, results, and business implications
 ---
 
 ## Contributors
