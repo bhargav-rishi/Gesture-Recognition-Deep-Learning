@@ -81,9 +81,9 @@ Gesture-Recognition-Deep-Learning/
 ├── 2sTCN.ipynb  ##Two-Stream Temporal Convolutional Network model
 ├── Transformer_Encoder.ipynb  ##Transformer Encoder model
 ├── parse_skeleton.ipynb ##Converting skeleton data into numpy array
-├── report/
+├── Report/
 │ └── Team Project - Gesture Recognition.docx
-├── demo/
+├── Demo/
 │ └── Drink_Water.mp4
 </pre>
 
